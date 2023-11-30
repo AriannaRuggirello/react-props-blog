@@ -1,44 +1,33 @@
- [{
-         "id": 1,
-         "slug": "pasta-al-pesto",
-         "name": "Pasta al Pesto",
-         "image": "pasta-al-pesto.jpg",
-         "tag": ["pasta", "italiana", "pesto"]
-     },
-     {
-         "id": 2,
-         "slug": "tiramisu",
-         "name": "Tiramisù",
-         "image": "tiramisu.jpg",
-         "tag": ["dessert", "italiano", "caffè"]
-     },
-     {
-         "id": 3,
-         "slug": "risotto-ai-funghi",
-         "name": "Risotto ai Funghi",
-         "image": "risotto-ai-funghi.jpg",
-         "tag": ["risotto", "funghi"]
-     },
-     {
-         "id": 4,
-         "slug": "spaghetti-alla-carbonara",
-         "name": "Spaghetti alla Carbonara",
-         "image": "spaghetti-alla-carbonara.jpg",
-         "tag": ["pasta", "italiana", "uova", "guanciale"]
-     },
-     {
-         "id": 5,
-         "slug": "insalata-caprese",
-         "name": "Insalata Caprese",
-         "image": "insalata-caprese.jpg",
-         "tag": ["insalata", "italiana", "mozzarella", "pomodoro", "basilico"]
-     },
-     {
-         "id": 6,
-         "slug": "pizza-margherita",
-         "name": "Pizza Margherita",
-         "image": "pizza-margherita.jpg",
-         "tag": ["pizza", "italiana", "mozzarella", "pomodoro", "basilico"]
-     }
-
- ]
+[{
+        "id": 1,
+        "title": "Titolo del Post",
+        "image": "casa1.jpg",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit animi unde quasi enim non esse ratione voluptas voluptate, officiis veritatis magni blanditiis possimus nobis cum id inventore corporis deserunt hic.",
+        "tags": ["html", "css"],
+        "published": true
+    },
+    {
+        "id": 2,
+        "title": "Titolo del Post",
+        "image": "casa2.jpg",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit animi unde quasi enim non esse ratione voluptas voluptate, officiis veritatis magni blanditiis possimus nobis cum id inventore corporis deserunt hic.",
+        "tags": ["js", "css"],
+        "published": true
+    },
+    {
+        "id": 3,
+        "title": "Titolo del Post",
+        "image": "casa3.jpg",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit animi unde quasi enim non esse ratione voluptas voluptate, officiis veritatis magni blanditiis possimus nobis cum id inventore corporis deserunt hic.",
+        "tags": ["js", "php"],
+        "published": true
+    },
+    {
+        "id": 4,
+        "title": "Titolo del Post",
+        "image": "casa4.jpg",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit animi unde quasi enim non esse ratione voluptas voluptate, officiis veritatis magni blanditiis possimus nobis cum id inventore corporis deserunt hic.",
+        "tags": ["html"],
+        "published": false
+    }
+]
