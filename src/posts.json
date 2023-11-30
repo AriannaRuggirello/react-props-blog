@@ -1,0 +1,44 @@
+ [{
+         "id": 1,
+         "slug": "pasta-al-pesto",
+         "name": "Pasta al Pesto",
+         "image": "pasta-al-pesto.jpg",
+         "tag": ["pasta", "italiana", "pesto"]
+     },
+     {
+         "id": 2,
+         "slug": "tiramisu",
+         "name": "Tiramisù",
+         "image": "tiramisu.jpg",
+         "tag": ["dessert", "italiano", "caffè"]
+     },
+     {
+         "id": 3,
+         "slug": "risotto-ai-funghi",
+         "name": "Risotto ai Funghi",
+         "image": "risotto-ai-funghi.jpg",
+         "tag": ["risotto", "funghi"]
+     },
+     {
+         "id": 4,
+         "slug": "spaghetti-alla-carbonara",
+         "name": "Spaghetti alla Carbonara",
+         "image": "spaghetti-alla-carbonara.jpg",
+         "tag": ["pasta", "italiana", "uova", "guanciale"]
+     },
+     {
+         "id": 5,
+         "slug": "insalata-caprese",
+         "name": "Insalata Caprese",
+         "image": "insalata-caprese.jpg",
+         "tag": ["insalata", "italiana", "mozzarella", "pomodoro", "basilico"]
+     },
+     {
+         "id": 6,
+         "slug": "pizza-margherita",
+         "name": "Pizza Margherita",
+         "image": "pizza-margherita.jpg",
+         "tag": ["pizza", "italiana", "mozzarella", "pomodoro", "basilico"]
+     }
+
+ ]
